@@ -18,15 +18,13 @@ I have since earned my CompTIA Security+ certification (December 2024) and am ac
 
 [Certifications] 
 
-Security+ Certification (Acquired December 2024) 
+- Security+ Certification (Acquired December 2024) 
 
-CySA+ Certification (Anticipated April 2025) 
+- CySA+ Certification (Anticipated April 2025) 
 
  
 
 [Skills] 
-
-Skills 
 
 Soft Skills:  
 
@@ -82,8 +80,6 @@ Additional Cybersecurity Knowledge & Skills:
 
 [Hands-on Labs] 
 
-- Hands-on Labs 
-
 - CompTIA Labs 
 
 - Multiple Hands-on Labs completed through official CompTIA learning material.  
@@ -101,7 +97,9 @@ Wood Chopping script for OSRS (Old School RuneScape)
 
 I have built a simple script for an online video game called ‘Old School RuneScape’ that gives the player the option to automatically “Chop Wood” without the need for user input. Utilizing tools such as PyAutoGUI for automatic mouse clicks, OpenCV for image recognition and Pillow for image processing, I was able to get a functional executable going. While I didn’t see this project fully through, the knowledge I gained from attempting it was invaluable.  
 
+ 
     4. Resume  
 
+file:///C:/Users/337976/Downloads/Resume%20Rough%20Cut%20(1).pdf
 
 
